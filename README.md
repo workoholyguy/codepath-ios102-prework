@@ -6,7 +6,8 @@ An App for a user to insert their info and then click the button which generates
 
 ### App Walk-though
 
- <img src="https://imgur.com/a/w25GOHb" width=200><br> OR <img src="https://imgur.com/a/w25GOHb" width=200><br> 
+ <img src="https://imgur.com/a/w25GOHb" width=200><br>
+ https://imgur.com/a/w25GOHb
 
 ### Required Features
 
